@@ -1,4 +1,4 @@
-package chapter1;
+package Springing.Simplifying;
 
 public class HelloWorldBean {
 	public String sayHello() {
